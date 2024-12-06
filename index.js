@@ -1,4 +1,6 @@
-let pre = `http://localhost:6900`
+let pre = `http://localhost:6900`;
+
+pre = 'https://office.boxcar.site'
 let invs = [];
 let url = `${pre}/invoices-per`;
 $('#myBtn').click(function(){
